@@ -8,9 +8,8 @@
 
 
 ## News
-
+- Feb 3, 2026: Our model is released [🤗 model link](https://huggingface.co/microsoft/X-Reasoner-7B)
 - May 6, 2025: Our paper is released on arxiv: [arxiv link](https://arxiv.org/abs/2505.03981)
-- (We will release the models soon.)
 
 ## Results
 
